@@ -1,1 +1,1 @@
-# fil-word-embeddings
+# Analysis on Filipino Word Embeddings
