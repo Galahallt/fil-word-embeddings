@@ -1,1 +1,3 @@
-*.zip
+fasttext_embeddings/
+word2vec_embeddings/
+.vscode
